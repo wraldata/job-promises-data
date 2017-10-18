@@ -18,9 +18,13 @@ The analysis is powered by data from the N.C. Department of Commerce and a datab
 
 * [Do job promises pay off?](http://www.wral.com/jobs-promise-methodology/14028170/)
 
+### Project page
+* [Do job promises pay off?](http://www.wral.com/news/state/nccapitol/asset_gallery/14053023/?navkeyword=job+incentives)
+
 ### 2015 stories
 
 * [State leaders' job promises continue to come up short](http://www.wral.com/state-leaders-job-promises-continue-to-come-up-short/14949497/)
+* [Poor counties, small business largely left out of incentives](http://www.wral.com/poor-counties-small-business-largely-left-out-of-incentives/14975704/)
 
 ### Stories from original series
 
