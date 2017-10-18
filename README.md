@@ -6,9 +6,9 @@ Incentives issued through the state's Job Development Investment Grants and One 
 The analysis is powered by data from the N.C. Department of Commerce and a database manually created by WRAL News using press releases supplied by the state archives.
 
 ### Get the current data
-* [10/1/2017 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/2017_ED_Grant_Final_Master.xlsx)
-* [WRAL's 2015 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/job-promises20171017.xlsx)
-* [WRAL's 2015 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/job-promises20171017.csv)
+* [10/1/2017 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2017_ED_Grant_Final_Master.xlsx)
+* [WRAL's 2015 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20171017.xlsx)
+* [WRAL's 2015 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20171017.csv)
 
 ### Application
 
@@ -35,10 +35,10 @@ The analysis is powered by data from the N.C. Department of Commerce and a datab
 
 ### Past Data
 
-* [10/1/2014 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/2014_ED_Grant_Final%20Master.xlsx)
-* [10/1/2015 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/2015_ED_Grant_Final_Master.xlsx)
-* [10/1/2016 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/2016_ED_Grant_Final_Master.xlsx)
-* [WRAL's 2015 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/job-promises20151019.xlsx)
-* [WRAL's 2015 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/job-promises20151019.csv)
-* [WRAL's job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/job-promises20141012.xlsx)
-* [WRAL's job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/job-promises20141012.csv)
+* [10/1/2014 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2014_ED_Grant_Final%20Master.xlsx)
+* [10/1/2015 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2015_ED_Grant_Final_Master.xlsx)
+* [10/1/2016 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2016_ED_Grant_Final_Master.xlsx)
+* [WRAL's 2015 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20151019.xlsx)
+* [WRAL's 2015 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20151019.csv)
+* [WRAL's job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20141012.xlsx)
+* [WRAL's job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20141012.csv)
