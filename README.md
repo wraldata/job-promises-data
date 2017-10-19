@@ -10,6 +10,10 @@ The analysis is powered by data from the N.C. Department of Commerce and a datab
 * [WRAL's 2015 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20171017.xlsx)
 * [WRAL's 2015 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20171017.csv)
 
+### Latest stories
+* [Year after year, richest areas claim most job incentive cash](http://www.wral.com/year-after-year-richest-areas-claim-most-job-incentive-cash/17022816/)
+* [Job promises miss the mark, but come in under budget](http://www.wral.com/year-after-year-richest-areas-claim-most-job-incentive-cash/17022816/)
+
 ### Application
 
 * [Job Promise Tracker](http://www.wral.com/news/state/page/14027662/)
