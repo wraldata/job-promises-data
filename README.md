@@ -13,7 +13,7 @@ The analysis is powered by data from the N.C. Department of Commerce and a datab
 * [WRAL's 2019 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20191219.csv)
 
 ### Latest stories (2019)
-TBD
+* [Under two governors, incentive programs miss the mark on hiring](https://www.wral.com/under-two-governors-incentive-programs-miss-the-mark-on-hiring/18807530/)
 
 ### Application
 
