@@ -5,6 +5,8 @@ Incentives issued through the state's Job Development Investment Grants and One 
 
 The analysis is powered by data from the N.C. Department of Commerce and a database manually created by WRAL News using press releases supplied by the state archives.
 
+[Read the full methodology](http://www.wral.com/jobs-promise-methodology/14028170/), last updated in 2019.
+
 ### Get the current data
 * [10/1/2019 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2019_ED_Grant_Final_Master.xlsx)
 * [WRAL's 2019 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20191219.xlsx)
@@ -17,9 +19,6 @@ TBD
 
 * [Job Promise Tracker](http://www.wral.com/news/state/page/14027662/)
 
-### Methodology
-
-* [Do job promises pay off?](http://www.wral.com/jobs-promise-methodology/14028170/)
 
 ### Project page
 * [Do job promises pay off?](http://www.wral.com/news/state/nccapitol/asset_gallery/14053023/?navkeyword=job+incentives)
