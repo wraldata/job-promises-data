@@ -25,7 +25,7 @@ TBD
 
 ### 2017 stories
 * [Year after year, richest areas claim most job incentive cash](http://www.wral.com/year-after-year-richest-areas-claim-most-job-incentive-cash/17022816/)
-* [Job promises miss the mark, but come in under budget](http://www.wral.com/year-after-year-richest-areas-claim-most-job-incentive-cash/17022816/)
+* [Job promises miss the mark, but come in under budget](https://www.wral.com/job-promises-miss-the-mark-but-come-in-under-budget/17022811/)
 
 ### 2015 stories
 
