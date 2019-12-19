@@ -1,18 +1,17 @@
 ## Job promises data
-WRAL's investigation into how incentive programs have performed, including the Job Promise Explorer, analyzed the 314 incentive grants announced for companies during the administration of Gov. Bev Perdue.
+WRAL's investigation into how incentive programs have performed, including the Job Promise Explorer, analyzed more than 500 incentive grants announced for companies during the administrations of Govs. Bev Perdue and Pat McCrory.
 
-Incentives issued through the state's Job Development Investment Grants and One North Carolina Fund take years to fully pay out as companies ramp up production, build new facilities or relocate, making Perdue's announcements from 2009 to 2012 an ideal period to evaluate in late 2017.
+Incentives issued through the state's Job Development Investment Grants and One North Carolina Fund take years to fully pay out as companies ramp up production, build new facilities or relocate, making announcements from 2009 to 2016 an ideal period to evaluate in late 2017.
 
 The analysis is powered by data from the N.C. Department of Commerce and a database manually created by WRAL News using press releases supplied by the state archives.
 
 ### Get the current data
-* [10/1/2017 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2017_ED_Grant_Final_Master.xlsx)
-* [WRAL's 2015 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20171017.xlsx)
-* [WRAL's 2015 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20171017.csv)
+* [10/1/2019 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2019_ED_Grant_Final_Master.xlsx)
+* [WRAL's 2019 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20191219.xlsx)
+* [WRAL's 2019 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20191219.csv)
 
-### Latest stories
-* [Year after year, richest areas claim most job incentive cash](http://www.wral.com/year-after-year-richest-areas-claim-most-job-incentive-cash/17022816/)
-* [Job promises miss the mark, but come in under budget](http://www.wral.com/year-after-year-richest-areas-claim-most-job-incentive-cash/17022816/)
+### Latest stories (2019)
+TBD
 
 ### Application
 
@@ -24,6 +23,10 @@ The analysis is powered by data from the N.C. Department of Commerce and a datab
 
 ### Project page
 * [Do job promises pay off?](http://www.wral.com/news/state/nccapitol/asset_gallery/14053023/?navkeyword=job+incentives)
+
+### 2017 stories
+* [Year after year, richest areas claim most job incentive cash](http://www.wral.com/year-after-year-richest-areas-claim-most-job-incentive-cash/17022816/)
+* [Job promises miss the mark, but come in under budget](http://www.wral.com/year-after-year-richest-areas-claim-most-job-incentive-cash/17022816/)
 
 ### 2015 stories
 
@@ -42,7 +45,12 @@ The analysis is powered by data from the N.C. Department of Commerce and a datab
 * [10/1/2014 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2014_ED_Grant_Final%20Master.xlsx)
 * [10/1/2015 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2015_ED_Grant_Final_Master.xlsx)
 * [10/1/2016 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2016_ED_Grant_Final_Master.xlsx)
+* [10/1/2017 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2017_ED_Grant_Final_Master.xlsx)
+* [10/1/2018 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2018_ED_Grant_Final_Master.xlsx)
+* [10/1/2019 Economic Development Grant Report (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/2019_ED_Grant_Final_Master.xlsx)
+* [WRAL's 2014 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20141012.xlsx)
+* [WRAL's 2014 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20141012.csv)
 * [WRAL's 2015 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20151019.xlsx)
 * [WRAL's 2015 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20151019.csv)
-* [WRAL's job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20141012.xlsx)
-* [WRAL's job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20141012.csv)
+* [WRAL's 2017 job promise database (Excel)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20171017.xlsx)
+* [WRAL's 2017 job promise database (CSV)](https://github.com/wraldata/job-promises-data/blob/master/data/job-promises20171017.csv)
